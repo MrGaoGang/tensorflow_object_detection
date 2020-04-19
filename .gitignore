@@ -1,0 +1,3 @@
+models/*
+venv/*
+!models/research/object_detection/*

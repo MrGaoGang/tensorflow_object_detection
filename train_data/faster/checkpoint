@@ -1,0 +1,5 @@
+model_checkpoint_path: "/Users/alexganggao/Documents/Study/tensorflow_detection/train_data/faster/model.ckpt-1000"
+all_model_checkpoint_paths: "/Users/alexganggao/Documents/Study/tensorflow_detection/train_data/faster/model.ckpt-0"
+all_model_checkpoint_paths: "/Users/alexganggao/Documents/Study/tensorflow_detection/train_data/faster/model.ckpt-353"
+all_model_checkpoint_paths: "/Users/alexganggao/Documents/Study/tensorflow_detection/train_data/faster/model.ckpt-690"
+all_model_checkpoint_paths: "/Users/alexganggao/Documents/Study/tensorflow_detection/train_data/faster/model.ckpt-1000"
